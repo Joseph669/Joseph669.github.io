@@ -16,7 +16,7 @@ P.P. Chu, RTL hardware design using VHDL, John Wiley & Sons, 2006.
 
 Reference Book
 -----------------
-* S. Yalamanchili, VHDL: A Starter \' s Guide, Prentice Hall, 2005
+* S. Yalamanchili, VHDL: A Starter \' s Guide, Prentice Hall, 2005. 
 * Charles H. Roth, Jr. and Lizy Kurian John: Digital Systems Design with VHDL, Publishing house of electronics Industry
 
 .. toctree::
