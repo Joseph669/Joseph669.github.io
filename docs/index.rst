@@ -1,4 +1,4 @@
-EE332 / EEE5019 Digital System Design
+EE332  Digital System Design
 =======================================
 Dr. Yu Yajun 
 
@@ -8,15 +8,15 @@ Office:  1005, Block A7, Nanshan iPark
 
 Phone: 8801 8557
 
-Email:  yuyj@sustc.edu.cn
+Email:  yuyj@sustech.edu.cn
 
 Text Book
 ------------
-S. Yalamanchili, VHDL: A Starter \' s Guide, Prentice Hall, 2005
+P.P. Chu, RTL hardware design using VHDL, John Wiley & Sons, 2006. 
 
 Reference Book
 -----------------
-* P.P. Chu, RTL hardware design using VHDL, John Wiley & Sons, 2006. 
+* S. Yalamanchili, VHDL: A Starter \' s Guide, Prentice Hall, 2005
 * Charles H. Roth, Jr. and Lizy Kurian John: Digital Systems Design with VHDL, Publishing house of electronics Industry
 
 .. toctree::
