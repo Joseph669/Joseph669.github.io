@@ -1,4 +1,4 @@
-hello EE332 / EEE5019 Digital System Design
+EE332 / EEE5019 Digital System Design
 =======================================
 Dr. Yu Yajun 
 
